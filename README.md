@@ -64,5 +64,5 @@
 ### 🕹 **Contribution Activity**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek777888&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek-dev7&theme=react-dark" />
 </p>
